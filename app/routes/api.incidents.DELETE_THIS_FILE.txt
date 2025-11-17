@@ -1,0 +1,10 @@
+This file needs to be deleted manually.
+
+Run this command:
+rm "/Users/eimis/Documents/HACKTHONS-2025/Chome AI Hackthon/safeguard-kids-dashboard/app/routes/api.incidents.ts"
+
+We have two files with the same route:
+1. app/routes/api.incidents.ts (DELETE THIS ONE)
+2. app/routes/api/incidents.ts (KEEP THIS ONE)
+
+Only one should exist.
